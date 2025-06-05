@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://your-banner-url-here.com/banner.png" alt="GhostFR Inc. Banner" />
+  <img src="https://github.com/GhostFreakOS/GhostFreakOS/blob/main/GhostFR%20banner.png?raw=true" alt="GhostFR Inc. Banner" />
 </p>
 
 # 👻 Welcome to GhostFR Inc.
